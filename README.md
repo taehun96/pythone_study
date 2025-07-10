@@ -1,4 +1,4 @@
-### ![header](https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=300&section=header&text=Tae%5Hun의%5%파이썬%5공부%5노트%5F0%9F%A4%97)
+### ![header](https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=300&section=header&text=TaeHun의1%파이썬5%공부5%노트5%F0%9F%A4%97)
 
 1. 변수
 2. 자료형
