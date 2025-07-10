@@ -2,5 +2,5 @@
 
 
   ## 👀 Study List
-  #### :1. 변수(Variable)<br/>
-  #### :2. 자료형(Data Type)<br/>
+  #### 1. 변수(Variable)<br/>
+  #### 2. 자료형(Data Type)<br/>
