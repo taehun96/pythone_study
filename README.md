@@ -13,7 +13,7 @@
   #### 9. 조건문 (If)<br/>
   #### 10. For문 (For)<br/>
   #### 11. While문 (While)<br/>
-  #### 12. 함수(Function) (For)<br/>
-  #### 13. 클래스(Class) (For)<br/>
-  #### 14. 모듈(Module) (For)<br/>
+  #### 12. 함수(Function)<br/>
+  #### 13. 클래스(Class)<br/>
+  #### 14. 모듈(Module)<br/>
 
